@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4feab01c0326b10479b3c7eee4dded7b, type: 3}
+  m_Name: Dc_Poison
+  m_EditorClassIdentifier: 
+  color: {r: 0.15076537, g: 0.41509432, b: 0.15877835, a: 1}
+  outcomes:
+  - {fileID: 11400000, guid: 06edc3079ddec7545afe24d1bd8b6f21, type: 2}
+  - {fileID: 11400000, guid: 466eb203063e63042a2947cf2edade60, type: 2}
+  - {fileID: 11400000, guid: 8e88eac30aaf27943b4c7085f62111af, type: 2}
+  - {fileID: 11400000, guid: c40f38165230f7a4b971e69abeb0d28d, type: 2}
+  staminaCost: 10
+  speed: 400
+  ready: 1

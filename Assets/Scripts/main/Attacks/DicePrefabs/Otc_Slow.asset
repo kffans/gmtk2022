@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a2515ec64c721047a312ecc8c519794, type: 3}
+  m_Name: Otc_Slow
+  m_EditorClassIdentifier: 
+  sound: {fileID: 8300000, guid: ffc0d76fab751c1439f27900d88fb3c6, type: 3}
+  radius: 125
+  time: 0.3
+  damage: 0
+  stun: 0
+  knockback: 1000
+  targets: []
+  icon: {fileID: -396417407, guid: 0fc9a8a62ea663a4a8c19253005150b8, type: 3}
+  duration: 3
+  amount: 0.5

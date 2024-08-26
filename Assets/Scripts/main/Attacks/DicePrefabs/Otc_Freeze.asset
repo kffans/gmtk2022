@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61364e47a3f63a546a66f850570c34d9, type: 3}
+  m_Name: Otc_Freeze
+  m_EditorClassIdentifier: 
+  sound: {fileID: 8300000, guid: 9381c3d4d62c35a45b8bf44bd459ea67, type: 3}
+  radius: 100
+  time: 0.1
+  damage: 5
+  stun: 2.5
+  knockback: 1500
+  targets: []
+  icon: {fileID: -710746293, guid: 0fc9a8a62ea663a4a8c19253005150b8, type: 3}
